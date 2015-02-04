@@ -1,11 +1,15 @@
 {
     "name": "opencontent/cjwnewsletter-ls",
-    "description": "Cjw Newsletter",
+    "description": "Cjw Newsletter (OpenContent Fork)",
     "type": "ezpublish-legacy-extension",
     "authors": [
         {
             "name": "CJW Network",
             "homepage": "http://www.cjw-network.com"
+        },
+        {
+            "name": "OpenContent",
+            "homepage": "http://www.opencontent.it"
         }
     ],
     "license": "GPL-2.0",    
